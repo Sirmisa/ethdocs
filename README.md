@@ -107,6 +107,8 @@ The table below is for all the stuff related to gas
 | Consensys Eth Dev Toolkit | - | https://github.com/ConsenSys/ethereum-developer-tools-list |  |
 |  |  | https://junsung.io/ConsenSys-Blockchain-Developer-Bootcamp/ |  |
 | Truffle University | - | https://github.com/truffleuniversity/resources |  |
+|  |  | https://github.com/OpenZeppelin/awesome-openzeppelin |  |
+|  |  |  |  |
 
 ### Tools
 
@@ -114,9 +116,10 @@ The table below is for all the stuff related to gas
 |--|--|--|--|
 | Remix | - | http://remix.ethereum.org/ | github.com |
 | One Click Dapp | - | https://oneclickdapp.com/ |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Hyperledger Besu |  |  |  |
+| Quorum |  | https://consensys.net/quorum/products/guides/getting-started-with-consensys-quorum/ |  |
+| Swarm |  | https://ethswarm.medium.com/ |  |
+| Zepellin Wizard |  | https://blog.openzeppelin.com/wizard/ | https://forum.openzeppelin.com/t/cost-to-deploy-erc721-token-to-mainnet/6789 |
 
 ### Security
 
@@ -126,7 +129,12 @@ The table below is for all the stuff related to gas
 | DamnVulnerableDefi | - | https://www.damnvulnerabledefi.xyz/ | https://forum.openzeppelin.com/t/community-solutions-to-damn-vulnerable-defi/4744 |
 |  |  | https://github.com/ConsenSys/smart-contract-best-practices |  |
 |  |  | https://blog.sigmaprime.io/solidity-security.html |  |
+|  |  | https://swcregistry.io/ |  |
+|  |  | https://github.com/sigp/solidity-security-blog |  |
 |  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 
 ### Testing
 
