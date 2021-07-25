@@ -160,7 +160,7 @@ The table below is for all the stuff related to gas
 |  |  | https://www.hackerrank.com |  |
 |  |  | https://hnpwa.com/ |  |
 |  |  | https://losapuntesdemajo.vercel.app/ |  |
-|  |  |  |  |
+|  |  | https://www.khanacademy.org |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
