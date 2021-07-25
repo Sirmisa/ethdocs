@@ -19,7 +19,7 @@ The following table lists the resources to read classified in categories
 | Dev Patterns | - | Pending |  |
 | Ethereum developers | - | https://ethereum.org/en/developers/ |  |
 | Javascript | - | https://dmitripavlutin.com/what-is-javascript-promise/ |  |
-|  |  |  |  |
+| OpenZepelin Learn |  | https://docs.openzeppelin.com/learn/ |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -146,11 +146,23 @@ The table below is for all the stuff related to gas
 |  |  |  |  |
 |  |  |  |  |
 
-### Table 4
+### Complement the learning
 
 | Resource | Reviewed | Link | Link Notes |
 |--|--|--|--|
 | something | x | www.google.com | github.com |
+|  |  | https://www.vuemastery.com |  |
+|  |  | https://reactjs.org/community/courses.html |  |
+|  |  | https://frontendmasters.com |  |
+|  |  | https://platzi.com/ |  |
+|  |  | https://www.algoexpert.io |  |
+|  |  | https://leetcode.com/ |  |
+|  |  | https://www.hackerrank.com |  |
+|  |  | https://hnpwa.com/ |  |
+|  |  | https://losapuntesdemajo.vercel.app/ |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
