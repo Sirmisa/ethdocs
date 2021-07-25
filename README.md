@@ -161,8 +161,8 @@ The table below is for all the stuff related to gas
 |  |  | https://hnpwa.com/ |  |
 |  |  | https://losapuntesdemajo.vercel.app/ |  |
 |  |  | https://www.khanacademy.org |  |
-|  |  |  |  |
-|  |  |  |  |
+|  |  | https://www.nand2tetris.org/course |  |
+|  |  | https://teachyourselfcs.com/#distributed-systems |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
